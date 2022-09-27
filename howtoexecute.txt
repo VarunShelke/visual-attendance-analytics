@@ -1,0 +1,19 @@
+Libraries Required:
+1] OpenCV
+2] Pandas
+3] Numpy
+4] Pickle
+5] Pillow
+6] Matplotlib
+
+To Run Code:
+1] Run face_recognition code to create trained recognizer.
+2] Run test.py
+3] Authority Name- gaurav
+   Password - imgaurav
+4] Click on Student Login button- 
+   Enter any roll number will show you his/her subjectwise attendance
+5] Click on Teacher Login Button- 
+   Enter any subject will show you that teacher's subjectwise attendance
+6] Click on Go For Attendance-
+   It will open camera and recognize his/her face and mark attendance.
