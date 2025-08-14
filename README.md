@@ -307,13 +307,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Educational institutions for testing and feedback
 - Open source contributors for various libraries used
 
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Email: [your-email@example.com]
-- Documentation: [Wiki](https://github.com/your-username/visual-attendance-analytics/wiki)
-
 ---
 
 **Note**: This system is designed for educational purposes and should be used in compliance with privacy laws and institutional policies regarding biometric data collection and storage.
